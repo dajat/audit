@@ -1,6 +1,6 @@
 <p align="center"> 
 
-<img src="https://i.imgur.com/.png" alt=""/> 
+<img src="https://imgur.com/HVmDGKk.png" alt="Security Audit"/> 
 
 </p> 
   
@@ -8,7 +8,7 @@
 
 This tutorial outlines the importance of completing a security audit and putting proper security controls in place for an organization. The organization is a fictitious toy company that is in dire need of security controls and adhering to compliance laws.<br /> 
 
-<h2>Items Used</h2> 
+<h2>Steps </h2> 
 
 - Company Scope and Goals: This allows the security auditor to review and assess the goals and scope of what needs to be implemented to ensure that the company is compliant and has the appropriate security controls in place.
 
@@ -39,68 +39,57 @@ After analyzing the scope, goals, and assets for the company, you will want to c
 - Technical: these controls are what the organization uses to protect their networks and data such as intrusion detection systems, firewalls, and etc.
 
 - Physical: these controls are surveillance cameras, cabinet locks and etc. to protect physical locations, such as retail stores or offices.
+
+After completing the controls assessment, you will want to complete a compliance checklist to ensure that you are adhering to regulations by building your policies and procedures based on the National Institute of Standards and Technology at the U.S. Department of Commerce.
   
 
-<h2>Step 1.4</h2> 
+<h2>Controls Assessment Checklist</h2> 
 
 <p> 
 
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/Ctk6l9L.png" height="80%" width="80%" alt="Admin Controls"/>
 
+<img src="https://imgur.com/mm4r53c.png" height="80%" width="80%" alt="Technical Controls"/> 
+
+<img src="https://imgur.com/Bp9F0eQ.png" height="80%" width="80%" alt="Physical Controls"/> 
 </p> 
 
 <p> 
+This checklist provides the security controls that the company needs to implement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu dolor metus. Cras tristique libero at diam volutpat porta imperdiet eget nunc. Fusce euismod aliquam ultrices. Integer a ultricies tortor. Donec mauris odio, aliquet vel ante vitae, tempor malesuada nibh. Suspendisse at ex fringilla urna scelerisque malesuada. Nullam eleifend lorem sit amet feugiat finibus. Donec massa leo, gravida in vestibulum bibendum, gravida in dolor. Pellentesque magna ipsum, finibus non mattis id, pellentesque sed ipsum. Curabitur tincidunt justo erat, a pulvinar nunc ultricies ut. In vulputate nec sem vitae laoreet. Curabitur ligula magna, malesuada vel enim et, ullamcorper ultricies augue. Aliquam eu porta ex. Nunc ut vestibulum dolor. 
 
 </p> 
 
 <br /> 
 
-<h2>Step 1.5 </h2> 
+<h2> Compliance Checklist </h2> 
 
 <p> 
 
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/mKNeMXu.png" height="80%" width="80%" alt="Regs 1"/> 
+<img src="https://imgur.com/ztefViQ.png" height="80%" width="80%" alt="Regs 2"/>
 
 </p> 
 
 <p> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu dolor metus. Cras tristique libero at diam volutpat porta imperdiet eget nunc. Fusce euismod aliquam ultrices. Integer a ultricies tortor. Donec mauris odio, aliquet vel ante vitae, tempor malesuada nibh. Suspendisse at ex fringilla urna scelerisque malesuada. Nullam eleifend lorem sit amet feugiat finibus. Donec massa leo, gravida in vestibulum bibendum, gravida in dolor. Pellentesque magna ipsum, finibus non mattis id, pellentesque sed ipsum. Curabitur tincidunt justo erat, a pulvinar nunc ultricies ut. In vulputate nec sem vitae laoreet. Curabitur ligula magna, malesuada vel enim et, ullamcorper ultricies augue. Aliquam eu porta ex. Nunc ut vestibulum dolor. 
+This checklist provides the compliance regulations that the company needs to adhere to. 
 
 </p> 
 
 <br /> 
 
-<h2> Step 1.6</h2> 
+<h2> Recommendations </h2> 
 
 <p> 
 
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+Multiple controls will need to be implemented for the fictitious toy company to strengthen its security posture. Some of the controls include Least privilege, Disaster Recovery
+Password, Access Control, Account Management policies, Separation of duties, etc. The compliance regulations that the company must adhere to General Data Protection Regulation (GDPR)
+Payment Card Industry Data Security Standard (PCI DSS), and System and Organizations Controls to protect consumer, employee, and organization data.
 
-</p> 
 
-<p> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu dolor metus. Cras tristique libero at diam volutpat porta imperdiet eget nunc. Fusce euismod aliquam ultrices. Integer a ultricies tortor. Donec mauris odio, aliquet vel ante vitae, tempor malesuada nibh. Suspendisse at ex fringilla urna scelerisque malesuada. Nullam eleifend lorem sit amet feugiat finibus. Donec massa leo, gravida in vestibulum bibendum, gravida in dolor. Pellentesque magna ipsum, finibus non mattis id, pellentesque sed ipsum. Curabitur tincidunt justo erat, a pulvinar nunc ultricies ut. In vulputate nec sem vitae laoreet. Curabitur ligula magna, malesuada vel enim et, ullamcorper ultricies augue. Aliquam eu porta ex. Nunc ut vestibulum dolor. 
 
-</p> 
-
-<br /> 
-
-<h2>Step  1.7</h2><p> 
-
-<img src="https://i.imgur.com/.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> 
-
-</p> 
-
-<p> 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu dolor metus. Cras tristique libero at diam volutpat porta imperdiet eget nunc. Fusce euismod aliquam ultrices. Integer a ultricies tortor. Donec mauris odio, aliquet vel ante vitae, tempor malesuada nibh. Suspendisse at ex fringilla urna scelerisque malesuada. Nullam eleifend lorem sit amet feugiat finibus. Donec massa leo, gravida in vestibulum bibendum, gravida in dolor. Pellentesque magna ipsum, finibus non mattis id, pellentesque sed ipsum. Curabitur tincidunt justo erat, a pulvinar nunc ultricies ut. In vulputate nec sem vitae laoreet. Curabitur ligula magna, malesuada vel enim et, ullamcorper ultricies augue. Aliquam eu porta ex. Nunc ut vestibulum dolor. 
-
-</p> 
-
-<br />  
+</p>  
 
 <br /> 
