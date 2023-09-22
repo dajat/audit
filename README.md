@@ -6,7 +6,7 @@
   
 <h1>Security Audit</h1> 
 
-This tutorial outlines the importance of completing a security audit and putting proper security controls in place for an organization. The organization is a fictitious toy company that is in dire need of security controls and adhering to compliance laws.<br /> 
+This tutorial elucidates the critical significance of conducting a comprehensive security audit and implementing robust security measures within an organization. The focal point of our discussion is a fictional toy company grappling with pressing security deficiencies and a need for strict adherence to compliance regulations.<br /> 
 
 <h2>Steps </h2> 
 
