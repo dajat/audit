@@ -47,11 +47,11 @@ After completing the controls assessment, you will want to complete a compliance
 
 <p> 
 
-<img src="https://imgur.com/Ctk6l9L.png" height="80%" width="80%" alt="Admin Controls"/>
+<img src="https://imgur.com/ZOLcqGv.png" height="80%" width="80%" alt="Admin Controls"/>
 
-<img src="https://imgur.com/mm4r53c.png" height="80%" width="80%" alt="Technical Controls"/> 
+<img src="https://imgur.com/T7PCfH5.png" height="80%" width="80%" alt="Technical Controls"/> 
 
-<img src="https://imgur.com/Bp9F0eQ.png" height="80%" width="80%" alt="Physical Controls"/> 
+<img src="https://imgur.com/7RB1tj7.png" height="80%" width="80%" alt="Physical Controls"/> 
 </p> 
 
 <p> 
