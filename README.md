@@ -16,6 +16,8 @@ This tutorial elucidates the critical significance of conducting a comprehensive
 
 - Compliance Checklist: This checklist is important to know the regulations that the company needs to adhere to.
 
+- Utilizing NIST 800-53 to understand different security controls and how they help to protect an organization's information systems.
+
 <h2>Analysis of Scope and Goals</h2> 
 It's very important that an IT department reviews the current assets of the company and how they are managed. Some of the most important assets of a company are:
 
